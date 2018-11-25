@@ -1,0 +1,18 @@
+In my specific case I did not want to study computer, I did not even like it, in fact I wanted to study chemistry, and the fact of going to study a career that I did not like was more and more like being married to someone you do not want. But just in those days of mordor, I met a community that was called chilango on rails where one of the speakers talked about the use of data science for the study of biological patterns and that changed my perspective about computer sciences.
+
+If the students with whom you are working do not have the necessary knowledge, 
+this is not a limitation; on the contrary, it defines a new starting point 
+to be able to work and even allows you to combine knowledge in the same point, 
+in the case of Biotechnology, when you want to approach programming workshops
+we realized that to them it was more practical to use python for the realization
+of statistical and probability analysis, so we took the decision to change a
+ Django workshop for one of introduction to DS for statistics.
+
+Focusing on specific topics allows for a better approach to the topics and content
+of the communities.
+In our case, when we organize workshops within schools, it is more sensible when we
+focus the subject and the topics related to a subject that the students take, 
+such as data structure or object-oriented programming.
+
+Share with the others
+achievements, mistakes, learning
